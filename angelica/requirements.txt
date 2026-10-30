@@ -1,0 +1,13 @@
+# --- Angelica Project Dependencies ---
+
+# OpenAI compatible SDK για την επικοινωνία με το Nebius / NVIDIA API
+openai>=1.0.0
+
+# Google Text-to-Speech για τη μετατροπή των απαντήσεων σε φωνή
+gTTS>=2.3.0
+
+# Διαχείριση περιβάλλοντος και ασφαλή φόρτωση API keys από το .env
+python-dotenv>=1.0.0
+
+# Υποστήριξη HTTP αιτημάτων
+requests>=2.28.0
